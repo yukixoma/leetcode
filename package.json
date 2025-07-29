@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Leetcode challenge solving",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukixoma/leetcode.git"
+  },
+  "author": "yukixoma08@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yukixoma/leetcode/issues"
+  },
+  "homepage": "https://github.com/yukixoma/leetcode#readme"
+}
